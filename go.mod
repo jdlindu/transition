@@ -1,4 +1,4 @@
-module github.com/qor/transition
+module github.com/jdlindu/transition
 
 go 1.13
 
